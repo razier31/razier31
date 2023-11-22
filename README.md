@@ -3,17 +3,44 @@
 
 <details>
 
-<summary>Conocimientos Tecnicos</summary>
+<summary>:computer:Conocimientos Tecnicos</summary>
+
+#### Lenguaje
+ - Java
+ - Python
+#### Framework
+ - Spring
+ - Django
+</details>
+
+<details>
+
+<summary>:hammer_and_wrench:Herramientas</summary>
+
+- Git
+- GitHub
+- Jira
+- Trello
+- Slack
+- PostMan
 
 </details>
 
 <details>
 
-<summary>Cursos Finalizados</summary>
+<summary>:hourglass_flowing_sand:Cursando Actualmente</summary>
 
-- ✔ Finalice el Curso de Full Stack con EGG (ARGENTINA PROGRAMA 4.0)
-- ✔ Finalice el bootcamp de Alkemy en Python + Django
-- ✔ Finalice el cursado de Mil Programadores Salteños en Python 🐍
+- Manual QA CrowdarAcademy
+
+</details>
+
+<details>
+
+<summary>:memo:Cursos Finalizados</summary>
+
+- ✔ Full Stack con EGG (ARGENTINA PROGRAMA 4.0)
+- ✔ Bootcamp de Alkemy en Python + Django
+- ✔ Mil Programadores Salteños en Python 🐍
 
 </details>
 
