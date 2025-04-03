@@ -30,7 +30,7 @@
 
 <summary>:hourglass_flowing_sand:Cursando Actualmente</summary>
 
-- BAsic Automation Testing CrowdarAcademy
+- Basic Automation Testing CrowdarAcademy
 
 </details>
 
