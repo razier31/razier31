@@ -30,7 +30,7 @@
 
 <summary>:hourglass_flowing_sand:Cursando Actualmente</summary>
 
-- Manual QA CrowdarAcademy
+- BAsic Automation Testing CrowdarAcademy
 
 </details>
 
@@ -41,6 +41,7 @@
 - ✔ Full Stack con EGG (ARGENTINA PROGRAMA 4.0)
 - ✔ Bootcamp de Alkemy en Python + Django
 - ✔ Mil Programadores Salteños en Python 🐍
+- ✔ Manual QA CrowdarAcademy
 
 </details>
 
